@@ -1,0 +1,1453 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
+                              CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj (__aeabi_uidiv)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj (__aeabi_idivmod)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_dvmd_tls.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj (abort)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj (calloc)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o) (_calloc_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+                              CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj (__errno)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (exit)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj (fwrite)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (__libc_init_array)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o) (__retarget_lock_acquire_recursive)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj (malloc)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o) (_malloc_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj (memcpy)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o) (__malloc_lock)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj (rand)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+                              CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj (realloc)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o) (_realloc_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o) (_sbrk_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o) (raise)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o) (_kill_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o) (__call_exitprocs)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o) (atexit)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o) (__sinit)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o) (_free_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o) (__sfvwrite_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o) (_fwalk)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o) (memchr)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o) (memmove)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o) (errno)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o) (__sread)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o) (_write_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o) (__swsetup_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o) (_close_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o) (_fclose_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o) (__sflush_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o) (_lseek_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o) (__smakebuf_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o) (_read_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o) (_fstat_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o) (_isatty_r)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_muldi3.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o) (__aeabi_lmul)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+errno               0x4               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+__lock___env_recursive_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .data          0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .text          0x0000000000000000       0x78 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .text.Error_Handler
+                0x0000000000000000        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._open    0x0000000000000000        0xa CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._times   0x0000000000000000        0x6 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000        0xa CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x90 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .rodata.AHBPrescTable
+                0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .text.LL_DMA_DeInit
+                0x0000000000000000       0xb0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .text.LL_DMA_Init
+                0x0000000000000000       0x50 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .text.LL_DMA_StructInit
+                0x0000000000000000       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .rodata.CHANNEL_OFFSET_TAB
+                0x0000000000000000        0x5 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_info    0x0000000000000000      0x599 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_abbrev  0x0000000000000000      0x1e7 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_loc     0x0000000000000000      0x381 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_ranges  0x0000000000000000       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_line    0x0000000000000000      0x2b9 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_str     0x0000000000000000      0x48c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .debug_frame   0x0000000000000000       0x50 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .text.LL_EXTI_DeInit
+                0x0000000000000000       0x24 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .text.LL_EXTI_StructInit
+                0x0000000000000000        0xe CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .text.LL_GPIO_DeInit
+                0x0000000000000000       0xc4 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .text.LL_GPIO_StructInit
+                0x0000000000000000       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .text.LL_I2C_DeInit
+                0x0000000000000000       0x54 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .text.LL_I2C_StructInit
+                0x0000000000000000       0x16 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .text.LL_PWR_DeInit
+                0x0000000000000000       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_info    0x0000000000000000      0x25d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x12c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_loc     0x0000000000000000       0x2c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_line    0x0000000000000000      0x1e1 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_str     0x0000000000000000      0x2ea CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .debug_frame   0x0000000000000000       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.LL_RCC_DeInit
+                0x0000000000000000       0xb4 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.LL_RCC_GetCECClockFreq
+                0x0000000000000000       0x34 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.RCC_GetHCLKClockFreq
+                0x0000000000000000       0x1c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.RCC_GetPCLK1ClockFreq
+                0x0000000000000000       0x1c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.RCC_PLL_GetFreqDomain_SYS
+                0x0000000000000000       0x3c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.RCC_GetSystemClockFreq
+                0x0000000000000000       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.LL_RCC_GetSystemClocksFreq
+                0x0000000000000000       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.LL_RCC_GetUSARTClockFreq
+                0x0000000000000000       0x5c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text.LL_RCC_GetI2CClockFreq
+                0x0000000000000000       0x34 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_info    0x0000000000000000      0x70f CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_abbrev  0x0000000000000000      0x23d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_loc     0x0000000000000000      0x32e CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_line    0x0000000000000000      0x3c5 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_str     0x0000000000000000      0x612 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .comment       0x0000000000000000       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .debug_frame   0x0000000000000000       0xd0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.UTILS_GetPLLOutputFrequency
+                0x0000000000000000       0x1a CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.UTILS_PLL_IsBusy
+                0x0000000000000000       0x14 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.LL_mDelay
+                0x0000000000000000       0x28 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.LL_SetFlashLatency
+                0x0000000000000000       0x48 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.UTILS_EnablePLLAndSwitchSystem
+                0x0000000000000000       0xb0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.LL_PLL_ConfigSystemClock_HSI
+                0x0000000000000000       0x64 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text.LL_PLL_ConfigSystemClock_HSE
+                0x0000000000000000       0x8c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .text.destroyFood
+                0x0000000000000000       0x12 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .text.drawPoint
+                0x0000000000000000        0xe CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .text.destroyPoint
+                0x0000000000000000        0xc CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .text.destroy_snake
+                0x0000000000000000       0x1a CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .text.clear_stack
+                0x0000000000000000       0x10 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .text.push_back
+                0x0000000000000000       0x16 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .text.pop_front
+                0x0000000000000000       0x8c CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .text.destroy_deque
+                0x0000000000000000       0x28 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .rodata.INIT_BUF_SIZE
+                0x0000000000000000        0x4 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.set_bpix
+                0x0000000000000000       0x2a CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.get_bpix
+                0x0000000000000000       0x1c CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.oled_set_cursor
+                0x0000000000000000       0x14 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.oled_pic
+                0x0000000000000000       0x36 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.oled_pic_dithering
+                0x0000000000000000      0x160 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .bss.buffer.6243
+                0x0000000000000000      0x100 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xfputs   0x0000000000000000       0x24 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xsprintf
+                0x0000000000000000       0x2c CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xfprintf
+                0x0000000000000000       0x28 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.put_dump
+                0x0000000000000000       0x90 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xgets    0x0000000000000000       0x60 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xfgets   0x0000000000000000       0x1c CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xatoi    0x0000000000000000       0xbc CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .bss.xfunc_in  0x0000000000000000        0x4 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .rodata.put_dump.str1.4
+                0x0000000000000000       0x1f CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+ .text.srand    0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text._init_signal_r.part.0
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x3c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x50 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000      0x118 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000000000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__sfp    0x0000000000000000       0xac /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x44 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0x94 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+ .text.fclose   0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_muldi3.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000002000 xrw
+FLASH            0x0000000008000000 0x0000000000010000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/crt0.o
+LOAD CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+LOAD CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc.a
+END GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtend.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+                0x0000000020002000                _estack = 0x20002000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000       0xc0
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000       0xc0 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x00000000080000c0                . = ALIGN (0x4)
+
+.text           0x00000000080000c0     0x3010
+                0x00000000080000c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080000c0       0x48 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .text          0x0000000008000108      0x114 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
+                0x0000000008000108                __udivsi3
+                0x0000000008000108                __aeabi_uidiv
+                0x0000000008000214                __aeabi_uidivmod
+ .text          0x000000000800021c      0x1d4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
+                0x000000000800021c                __aeabi_idiv
+                0x000000000800021c                __divsi3
+                0x00000000080003e8                __aeabi_idivmod
+ .text          0x00000000080003f0        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_dvmd_tls.o)
+                0x00000000080003f0                __aeabi_ldiv0
+                0x00000000080003f0                __aeabi_idiv0
+ .text          0x00000000080003f4       0x54 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_muldi3.o)
+                0x00000000080003f4                __aeabi_lmul
+                0x00000000080003f4                __muldi3
+ *(.text*)
+ .text.delay_10ms
+                0x0000000008000448       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .text.MX_GPIO_Init
+                0x0000000008000458      0x118 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .text.MX_I2C1_Init
+                0x0000000008000570       0xdc CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .text.is_pressed
+                0x000000000800064c       0x22 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                0x000000000800064c                is_pressed
+ *fill*         0x000000000800066e        0x2 
+ .text.SystemClock_Config
+                0x0000000008000670       0xb8 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                0x0000000008000670                SystemClock_Config
+ .text.main     0x0000000008000728       0xbc CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                0x0000000008000728                main
+ .text.NMI_Handler
+                0x00000000080007e4        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x00000000080007e4                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080007e6        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x00000000080007e6                HardFault_Handler
+ .text.SVC_Handler
+                0x00000000080007e8        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x00000000080007e8                SVC_Handler
+ .text.PendSV_Handler
+                0x00000000080007ea        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x00000000080007ea                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080007ec        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x00000000080007ec                SysTick_Handler
+ .text._getpid  0x00000000080007ee        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x00000000080007ee                _getpid
+ .text._kill    0x00000000080007f2       0x10 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x00000000080007f2                _kill
+ .text._exit    0x0000000008000802        0xc CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x0000000008000802                _exit
+ .text._read    0x000000000800080e       0x1c CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x000000000800080e                _read
+ .text._write   0x000000000800082a       0x1c CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x000000000800082a                _write
+ *fill*         0x0000000008000846        0x2 
+ .text._sbrk    0x0000000008000848       0x3c CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x0000000008000848                _sbrk
+ .text._close   0x0000000008000884        0x6 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x0000000008000884                _close
+ .text._fstat   0x000000000800088a        0xa CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x000000000800088a                _fstat
+ .text._isatty  0x0000000008000894        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x0000000008000894                _isatty
+ .text._lseek   0x0000000008000898        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                0x0000000008000898                _lseek
+ .text.SystemInit
+                0x000000000800089c        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+                0x000000000800089c                SystemInit
+ *fill*         0x000000000800089e        0x2 
+ .text.LL_EXTI_Init
+                0x00000000080008a0       0xcc CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+                0x00000000080008a0                LL_EXTI_Init
+ .text.LL_GPIO_Init
+                0x000000000800096c       0xa8 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+                0x000000000800096c                LL_GPIO_Init
+ .text.LL_I2C_Init
+                0x0000000008000a14       0x78 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+                0x0000000008000a14                LL_I2C_Init
+ .text.LL_Init1msTick
+                0x0000000008000a8c       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+                0x0000000008000a8c                LL_Init1msTick
+ .text.LL_SetSystemCoreClock
+                0x0000000008000aac        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+                0x0000000008000aac                LL_SetSystemCoreClock
+ .text.newFood  0x0000000008000ab8       0x16 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+                0x0000000008000ab8                newFood
+ .text.generate_new_food
+                0x0000000008000ace       0x2e CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+                0x0000000008000ace                generate_new_food
+ .text.newPoint
+                0x0000000008000afc       0x14 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+                0x0000000008000afc                newPoint
+ .text.newSnake
+                0x0000000008000b10       0x32 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+                0x0000000008000b10                newSnake
+ .text.change_direction
+                0x0000000008000b42       0x32 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+                0x0000000008000b42                change_direction
+ .text.draw_snake
+                0x0000000008000b74       0x46 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+                0x0000000008000b74                draw_snake
+ *fill*         0x0000000008000bba        0x2 
+ .text.move_forward
+                0x0000000008000bbc      0x180 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+                0x0000000008000bbc                move_forward
+ .text.new_stack
+                0x0000000008000d3c       0x20 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000d3c                new_stack
+ .text.push     0x0000000008000d5c       0x40 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000d5c                push
+ .text.pop      0x0000000008000d9c       0x40 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000d9c                pop
+ .text.new_deque
+                0x0000000008000ddc       0x1e CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000ddc                new_deque
+ *fill*         0x0000000008000dfa        0x2 
+ .text.front    0x0000000008000dfc       0x18 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000dfc                front
+ .text.pop_back
+                0x0000000008000e14       0x8c CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000e14                pop_back
+ .text.push_front
+                0x0000000008000ea0       0x16 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                0x0000000008000ea0                push_front
+ *fill*         0x0000000008000eb6        0x2 
+ .text.oled_hw_config
+                0x0000000008000eb8      0x10c CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.oled_cmd_send
+                0x0000000008000fc4       0x40 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.oled_data_send
+                0x0000000008001004       0x58 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .text.oled_clr
+                0x000000000800105c       0x14 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                0x000000000800105c                oled_clr
+ .text.oled_update
+                0x0000000008001070       0x38 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                0x0000000008001070                oled_update
+ .text.oled_config
+                0x00000000080010a8       0xa0 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                0x00000000080010a8                oled_config
+ .text.oled_set_pix
+                0x0000000008001148       0x44 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                0x0000000008001148                oled_set_pix
+ .text.oled_putc
+                0x000000000800118c       0x84 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                0x000000000800118c                oled_putc
+ .text.xputc    0x0000000008001210       0x38 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+                0x0000000008001210                xputc
+ .text.xputs    0x0000000008001248       0x14 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+                0x0000000008001248                xputs
+ .text.xvprintf
+                0x000000000800125c      0x200 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .text.xprintf  0x000000000800145c       0x18 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+                0x000000000800145c                xprintf
+ .text.Reset_Handler
+                0x0000000008001474       0x50 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+                0x0000000008001474                Reset_Handler
+ .text.Default_Handler
+                0x00000000080014c4        0x2 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+                0x00000000080014c4                TIM1_CC_IRQHandler
+                0x00000000080014c4                TSC_IRQHandler
+                0x00000000080014c4                ADC1_COMP_IRQHandler
+                0x00000000080014c4                PVD_IRQHandler
+                0x00000000080014c4                I2C1_IRQHandler
+                0x00000000080014c4                RCC_CRS_IRQHandler
+                0x00000000080014c4                SPI1_IRQHandler
+                0x00000000080014c4                TIM6_DAC_IRQHandler
+                0x00000000080014c4                EXTI2_3_IRQHandler
+                0x00000000080014c4                I2C2_IRQHandler
+                0x00000000080014c4                TIM17_IRQHandler
+                0x00000000080014c4                CEC_CAN_IRQHandler
+                0x00000000080014c4                RTC_IRQHandler
+                0x00000000080014c4                TIM16_IRQHandler
+                0x00000000080014c4                TIM3_IRQHandler
+                0x00000000080014c4                EXTI4_15_IRQHandler
+                0x00000000080014c4                DMA1_Channel1_IRQHandler
+                0x00000000080014c4                Default_Handler
+                0x00000000080014c4                TIM14_IRQHandler
+                0x00000000080014c4                DMA1_Channel4_5_IRQHandler
+                0x00000000080014c4                TIM15_IRQHandler
+                0x00000000080014c4                EXTI0_1_IRQHandler
+                0x00000000080014c4                SPI2_IRQHandler
+                0x00000000080014c4                WWDG_IRQHandler
+                0x00000000080014c4                TIM2_IRQHandler
+                0x00000000080014c4                DMA1_Channel2_3_IRQHandler
+                0x00000000080014c4                USART2_IRQHandler
+                0x00000000080014c4                FLASH_IRQHandler
+                0x00000000080014c4                USART1_IRQHandler
+                0x00000000080014c4                TIM1_BRK_UP_TRG_COM_IRQHandler
+ *fill*         0x00000000080014c6        0x2 
+ .text.abort    0x00000000080014c8       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+                0x00000000080014c8                abort
+ .text.calloc   0x00000000080014d8       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+                0x00000000080014d8                calloc
+ .text._calloc_r
+                0x00000000080014f0       0x58 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+                0x00000000080014f0                _calloc_r
+ .text.__errno  0x0000000008001548        0xc /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+                0x0000000008001548                __errno
+ .text._fwrite_r
+                0x0000000008001554       0xb4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+                0x0000000008001554                _fwrite_r
+ .text.fwrite   0x0000000008001608       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+                0x0000000008001608                fwrite
+ .text.__libc_init_array
+                0x0000000008001628       0x48 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+                0x0000000008001628                __libc_init_array
+ .text.__retarget_lock_init_recursive
+                0x0000000008001670        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x0000000008001670                __retarget_lock_init_recursive
+ .text.__retarget_lock_close_recursive
+                0x0000000008001674        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x0000000008001674                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008001678        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x0000000008001678                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x000000000800167c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x000000000800167c                __retarget_lock_release_recursive
+ .text.malloc   0x0000000008001680       0x14 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+                0x0000000008001680                malloc
+ .text._malloc_r
+                0x0000000008001694      0x554 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000008001694                _malloc_r
+ .text.memcpy   0x0000000008001be8       0x88 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+                0x0000000008001be8                memcpy
+ .text.memset   0x0000000008001c70       0x9c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+                0x0000000008001c70                memset
+ .text.__malloc_lock
+                0x0000000008001d0c       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+                0x0000000008001d0c                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000008001d1c       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+                0x0000000008001d1c                __malloc_unlock
+ .text.rand     0x0000000008001d2c       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+                0x0000000008001d2c                rand
+ .text.realloc  0x0000000008001d60       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+                0x0000000008001d60                realloc
+ .text._realloc_r
+                0x0000000008001d78      0x3b0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+                0x0000000008001d78                _realloc_r
+ .text._sbrk_r  0x0000000008002128       0x24 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+                0x0000000008002128                _sbrk_r
+ .text._raise_r
+                0x000000000800214c       0x5c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+                0x000000000800214c                _raise_r
+ .text.raise    0x00000000080021a8       0x14 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+                0x00000000080021a8                raise
+ .text._kill_r  0x00000000080021bc       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+                0x00000000080021bc                _kill_r
+ .text._getpid_r
+                0x00000000080021e4        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+                0x00000000080021e4                _getpid_r
+ .text.startup.register_fini
+                0x00000000080021ec       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000008002204       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+                0x0000000008002204                atexit
+ .text.std      0x0000000008002214       0x50 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000008002264       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+                0x0000000008002264                _cleanup_r
+ .text.__sinit  0x0000000008002274       0x60 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+                0x0000000008002274                __sinit
+ .text.__sfp_lock_acquire
+                0x00000000080022d4       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+                0x00000000080022d4                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00000000080022e4       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+                0x00000000080022e4                __sfp_lock_release
+ .text.__libc_fini_array
+                0x00000000080022f4       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+                0x00000000080022f4                __libc_fini_array
+ .text._malloc_trim_r
+                0x0000000008002328       0xa0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+                0x0000000008002328                _malloc_trim_r
+ .text._free_r  0x00000000080023c8      0x1d4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+                0x00000000080023c8                _free_r
+ .text.__sfvwrite_r
+                0x000000000800259c      0x2fc /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+                0x000000000800259c                __sfvwrite_r
+ .text._fwalk_reent
+                0x0000000008002898       0x4c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+                0x0000000008002898                _fwalk_reent
+ .text.memchr   0x00000000080028e4       0x80 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+                0x00000000080028e4                memchr
+ .text.memmove  0x0000000008002964       0x9c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+                0x0000000008002964                memmove
+ .text.__sread  0x0000000008002a00       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+                0x0000000008002a00                __sread
+ .text.__swrite
+                0x0000000008002a28       0x3c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+                0x0000000008002a28                __swrite
+ .text.__sseek  0x0000000008002a64       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+                0x0000000008002a64                __sseek
+ .text.__sclose
+                0x0000000008002a90        0xc /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+                0x0000000008002a90                __sclose
+ .text._write_r
+                0x0000000008002a9c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+                0x0000000008002a9c                _write_r
+ .text.__swsetup_r
+                0x0000000008002ac4       0xd4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+                0x0000000008002ac4                __swsetup_r
+ .text.__register_exitproc
+                0x0000000008002b98       0xf4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+                0x0000000008002b98                __register_exitproc
+ .text._close_r
+                0x0000000008002c8c       0x24 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+                0x0000000008002c8c                _close_r
+ .text._fclose_r
+                0x0000000008002cb0       0xd8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+                0x0000000008002cb0                _fclose_r
+ .text.__sflush_r
+                0x0000000008002d88      0x150 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+                0x0000000008002d88                __sflush_r
+ .text._fflush_r
+                0x0000000008002ed8       0x54 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+                0x0000000008002ed8                _fflush_r
+ .text._lseek_r
+                0x0000000008002f2c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+                0x0000000008002f2c                _lseek_r
+ .text.__swhatbuf_r
+                0x0000000008002f54       0x60 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+                0x0000000008002f54                __swhatbuf_r
+ .text.__smakebuf_r
+                0x0000000008002fb4       0x90 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+                0x0000000008002fb4                __smakebuf_r
+ .text._read_r  0x0000000008003044       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+                0x0000000008003044                _read_r
+ .text._fstat_r
+                0x000000000800306c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+                0x000000000800306c                _fstat_r
+ .text._isatty_r
+                0x0000000008003094       0x24 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+                0x0000000008003094                _isatty_r
+ *(.glue_7)
+ .glue_7        0x00000000080030b8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000080030b8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000080030b8        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ *(.init)
+ .init          0x00000000080030b8        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+                0x00000000080030b8                _init
+ .init          0x00000000080030bc        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ *(.fini)
+ .fini          0x00000000080030c4        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+                0x00000000080030c4                _fini
+ .fini          0x00000000080030c8        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+                0x00000000080030d0                . = ALIGN (0x4)
+                0x00000000080030d0                _etext = .
+
+.vfp11_veneer   0x00000000080030d0        0x0
+ .vfp11_veneer  0x00000000080030d0        0x0 linker stubs
+
+.v4_bx          0x00000000080030d0        0x0
+ .v4_bx         0x00000000080030d0        0x0 linker stubs
+
+.iplt           0x00000000080030d0        0x0
+ .iplt          0x00000000080030d0        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+
+.rodata         0x00000000080030d0       0x88
+                0x00000000080030d0                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.move_forward.str1.4
+                0x00000000080030d0       0x16 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ *fill*         0x00000000080030e6        0x2 
+ .rodata.pop.str1.4
+                0x00000000080030e8       0x10 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .rodata.xvprintf
+                0x00000000080030f8       0x5c CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .rodata._global_impure_ptr
+                0x0000000008003154        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+                0x0000000008003154                _global_impure_ptr
+                0x0000000008003158                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000008003158        0x0
+ .rel.iplt      0x0000000008003158        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0000000008003158        0x0
+                0x0000000008003158                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008003158                __exidx_end = .
+
+.preinit_array  0x0000000008003158        0x0
+                0x0000000008003158                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008003158                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000008003158        0x8
+                0x0000000008003158                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000000008003158        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x000000000800315c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                0x0000000008003160                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008003160        0x4
+                0x0000000008003160                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008003160        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                0x0000000008003164                PROVIDE (__fini_array_end = .)
+                0x0000000008003164                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000      0x844 load address 0x0000000008003164
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+                0x0000000020000000                SystemCoreClock
+ .data._impure_ptr
+                0x0000000020000004        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+                0x0000000020000004                _impure_ptr
+ .data.impure_data
+                0x0000000020000008      0x428 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+ .data.__malloc_av_
+                0x0000000020000430      0x408 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000430                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x0000000020000838        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000838                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x000000002000083c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x000000002000083c                __malloc_trim_threshold
+ .data.__atexit_recursive_mutex
+                0x0000000020000840        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+                0x0000000020000840                __atexit_recursive_mutex
+                0x0000000020000844                . = ALIGN (0x4)
+                0x0000000020000844                _edata = .
+
+.igot.plt       0x0000000020000844        0x0 load address 0x00000000080039a8
+ .igot.plt      0x0000000020000844        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                0x0000000020000844                . = ALIGN (0x4)
+
+.bss            0x0000000020000844      0x494 load address 0x00000000080039a8
+                0x0000000020000844                _sbss = .
+                0x0000000020000844                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000844       0x1c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ *(.bss*)
+ .bss.heap_end.5959
+                0x0000000020000860        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .bss.curX      0x0000000020000864        0x1 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .bss.curY      0x0000000020000865        0x1 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ *fill*         0x0000000020000866        0x2 
+ .bss.font_desc
+                0x0000000020000868        0xc CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                0x0000000020000868                font_desc
+ .bss.gmem      0x0000000020000874      0x400 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .bss.outptr    0x0000000020000c74        0x4 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .bss.xfunc_out
+                0x0000000020000c78        0x4 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+                0x0000000020000c78                xfunc_out
+ .bss.__malloc_current_mallinfo
+                0x0000000020000c7c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000c7c                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x0000000020000ca4        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000ca4                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x0000000020000ca8        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000ca8                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x0000000020000cac        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+                0x0000000020000cac                __malloc_top_pad
+ *(COMMON)
+ COMMON         0x0000000020000cb0       0x21 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x0000000020000cb0                __lock___atexit_recursive_mutex
+                0x0000000020000cb4                __lock___arc4random_mutex
+                0x0000000020000cb8                __lock___env_recursive_mutex
+                0x0000000020000cbc                __lock___sinit_recursive_mutex
+                0x0000000020000cc0                __lock___malloc_recursive_mutex
+                0x0000000020000cc4                __lock___at_quick_exit_mutex
+                0x0000000020000cc8                __lock___dd_hash_mutex
+                0x0000000020000ccc                __lock___tz_mutex
+                0x0000000020000cd0                __lock___sfp_recursive_mutex
+ *fill*         0x0000000020000cd1        0x3 
+ COMMON         0x0000000020000cd4        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+                0x0000000020000cd4                errno
+                0x0000000020000cd8                . = ALIGN (0x4)
+                0x0000000020000cd8                _ebss = .
+                0x0000000020000cd8                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000cd8      0x600 load address 0x00000000080039a8
+                0x0000000020000cd8                . = ALIGN (0x8)
+                0x0000000020000cd8                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000ed8                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000cd8      0x200 
+                0x00000000200012d8                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000ed8      0x400 
+                0x00000000200012d8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x31 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .ARM.attributes
+                0x000000000000007b       0x31 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .ARM.attributes
+                0x00000000000000ac       0x31 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .ARM.attributes
+                0x00000000000000dd       0x31 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .ARM.attributes
+                0x000000000000010e       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .ARM.attributes
+                0x000000000000013f       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .ARM.attributes
+                0x0000000000000170       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .ARM.attributes
+                0x00000000000001a1       0x31 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .ARM.attributes
+                0x00000000000001d2       0x31 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .ARM.attributes
+                0x0000000000000203       0x31 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .ARM.attributes
+                0x0000000000000234       0x31 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .ARM.attributes
+                0x0000000000000265       0x31 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .ARM.attributes
+                0x0000000000000296       0x31 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .ARM.attributes
+                0x00000000000002c7       0x31 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .ARM.attributes
+                0x00000000000002f8       0x21 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+ .ARM.attributes
+                0x0000000000000319       0x1e /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000337       0x1e /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000355       0x1e /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000373       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+ .ARM.attributes
+                0x000000000000039f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+ .ARM.attributes
+                0x00000000000003cb       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000000000003f7       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000423       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+ .ARM.attributes
+                0x000000000000044f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000047b       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000004a7       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000000004d3       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000004ff       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000000000000052b       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000557       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000583       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000000005af       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+ .ARM.attributes
+                0x00000000000005db       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+ .ARM.attributes
+                0x0000000000000607       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x0000000000000633       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000000065f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .ARM.attributes
+                0x000000000000068b       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x00000000000006b7       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000006e3       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000000000000070f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000000000000073b       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000767       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000000793       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000000007bf       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000000007eb       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x0000000000000817       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000843       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000086f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x000000000000089b       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000000008c7       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000000000008f3       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000000000091f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000000000000094b       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x0000000000000977       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000000009a3       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000000009cf       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000000009fb       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+ .ARM.attributes
+                0x0000000000000a27       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000000a53       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x0000000000000a7f       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_muldi3.o)
+ .ARM.attributes
+                0x0000000000000aab       0x1e /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+OUTPUT(SnakeGame.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0xa556
+ .debug_info    0x0000000000000000     0x1a37 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x0000000000001a37      0x9c9 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_info    0x0000000000002400      0xfcf CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x00000000000033cf      0x242 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_info    0x0000000000003611      0x4ab CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_info    0x0000000000003abc      0x72d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_info    0x00000000000041e9      0x6a7 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_info    0x0000000000004890      0x91d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_info    0x00000000000051ad      0xae1 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_info    0x0000000000005c8e      0x9b7 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_info    0x0000000000006645      0xde7 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_info    0x000000000000742c      0xebb CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_info    0x00000000000082e7     0x1b6a CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_info    0x0000000000009e51      0x6e3 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .debug_info    0x000000000000a534       0x22 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+
+.debug_abbrev   0x0000000000000000     0x21e3
+ .debug_abbrev  0x0000000000000000      0x442 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000000000000442      0x1bf CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_abbrev  0x0000000000000601      0x2d1 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000000000008d2       0xfd CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_abbrev  0x00000000000009cf      0x196 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_abbrev  0x0000000000000b65      0x1c4 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_abbrev  0x0000000000000d29      0x1a1 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_abbrev  0x0000000000000eca      0x2ba CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_abbrev  0x0000000000001184      0x23b CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_abbrev  0x00000000000013bf      0x20b CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_abbrev  0x00000000000015ca      0x299 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_abbrev  0x0000000000001863      0x2be CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_abbrev  0x0000000000001b21      0x460 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_abbrev  0x0000000000001f81      0x250 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .debug_abbrev  0x00000000000021d1       0x12 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+
+.debug_loc      0x0000000000000000     0x2e49
+ .debug_loc     0x0000000000000000      0x39c CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_loc     0x000000000000039c      0x3c5 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_loc     0x0000000000000761      0x13b CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_loc     0x000000000000089c      0x235 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_loc     0x0000000000000ad1      0x36e CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_loc     0x0000000000000e3f      0x247 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_loc     0x0000000000001086      0x564 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_loc     0x00000000000015ea       0xd0 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_loc     0x00000000000016ba       0x96 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_loc     0x0000000000001750      0x1e8 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_loc     0x0000000000001938      0x28d CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_loc     0x0000000000001bc5      0x91e CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_loc     0x00000000000024e3      0x966 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+
+.debug_aranges  0x0000000000000000      0x480
+ .debug_aranges
+                0x0000000000000000       0x50 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_aranges
+                0x0000000000000050       0x40 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_aranges
+                0x0000000000000090       0xb0 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000140       0x28 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_aranges
+                0x0000000000000168       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_aranges
+                0x0000000000000198       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_aranges
+                0x00000000000001c8       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_aranges
+                0x00000000000001f8       0x60 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_aranges
+                0x0000000000000258       0x30 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_aranges
+                0x0000000000000288       0x30 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_aranges
+                0x00000000000002b8       0x40 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_aranges
+                0x00000000000002f8       0x70 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_aranges
+                0x0000000000000368       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_aranges
+                0x00000000000003e8       0x70 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .debug_aranges
+                0x0000000000000458       0x28 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+
+.debug_ranges   0x0000000000000000      0x3c8
+ .debug_ranges  0x0000000000000000       0x58 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_ranges  0x0000000000000058       0x30 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_ranges  0x0000000000000088       0xa0 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_ranges  0x0000000000000128       0x18 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_ranges  0x0000000000000140       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_ranges  0x0000000000000160       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_ranges  0x0000000000000180       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_ranges  0x00000000000001a0       0x50 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_ranges  0x00000000000001f0       0x20 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_ranges  0x0000000000000210       0x20 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_ranges  0x0000000000000230       0x48 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_ranges  0x0000000000000278       0x60 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_ranges  0x00000000000002d8       0x70 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_ranges  0x0000000000000348       0x60 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .debug_ranges  0x00000000000003a8       0x20 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+
+.debug_line     0x0000000000000000     0x2822
+ .debug_line    0x0000000000000000      0x528 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x0000000000000528      0x29f CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_line    0x00000000000007c7      0x2f8 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x0000000000000abf      0x17a CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_line    0x0000000000000c39      0x28d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_line    0x0000000000000ec6      0x2af CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_line    0x0000000000001175      0x271 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_line    0x00000000000013e6      0x419 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_line    0x00000000000017ff      0x144 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_line    0x0000000000001943      0x13f CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_line    0x0000000000001a82      0x248 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_line    0x0000000000001cca      0x237 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_line    0x0000000000001f01      0x562 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_line    0x0000000000002463      0x319 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .debug_line    0x000000000000277c       0xa6 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+
+.debug_str      0x0000000000000000     0x1b6b
+ .debug_str     0x0000000000000000      0xb8e CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                                        0xce0 (size before relaxing)
+ .debug_str     0x0000000000000b8e       0x88 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                                        0x67f (size before relaxing)
+ .debug_str     0x0000000000000c16      0x28c CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+                                        0x874 (size before relaxing)
+ .debug_str     0x0000000000000ea2       0x83 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+                                        0x2b0 (size before relaxing)
+ .debug_str     0x0000000000000f25      0x19a CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+                                        0x3ee (size before relaxing)
+ .debug_str     0x00000000000010bf      0x11a CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+                                        0x42c (size before relaxing)
+ .debug_str     0x00000000000011d9      0x163 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+                                        0x47b (size before relaxing)
+ .debug_str     0x000000000000133c      0x295 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+                                        0x654 (size before relaxing)
+ .debug_str     0x00000000000015d1       0xa1 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+                                        0x697 (size before relaxing)
+ .debug_str     0x0000000000001672       0x63 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+                                        0x611 (size before relaxing)
+ .debug_str     0x00000000000016d5       0x73 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+                                        0x75d (size before relaxing)
+ .debug_str     0x0000000000001748       0xbc CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+                                        0x6e7 (size before relaxing)
+ .debug_str     0x0000000000001804      0x266 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+                                        0xa96 (size before relaxing)
+ .debug_str     0x0000000000001a6a       0xae CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+                                        0x22e (size before relaxing)
+ .debug_str     0x0000000000001b18       0x53 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+                                         0x8c (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .comment       0x000000000000007f       0x80 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+
+.debug_frame    0x0000000000000000     0x15e4
+ .debug_frame   0x0000000000000000       0xcc CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000000000000cc       0x60 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_frame   0x000000000000012c      0x19c CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x00000000000002c8       0x38 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_frame   0x0000000000000300       0x48 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_frame   0x0000000000000348       0x50 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_frame   0x0000000000000398       0x4c CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_frame   0x00000000000003e4       0xe0 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_frame   0x00000000000004c4       0x5c CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
+ .debug_frame   0x0000000000000520       0x5c CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
+ .debug_frame   0x000000000000057c       0x8c CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
+ .debug_frame   0x0000000000000608      0x130 CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
+ .debug_frame   0x0000000000000738      0x150 CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
+ .debug_frame   0x0000000000000888      0x158 CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
+ .debug_frame   0x00000000000009e0       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000a00       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000a20       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000a48       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-calloc.o)
+ .debug_frame   0x0000000000000a70       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-callocr.o)
+ .debug_frame   0x0000000000000a98       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000ab8       0x54 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwrite.o)
+ .debug_frame   0x0000000000000b0c       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000b38       0xb0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000be8       0x40 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000c28       0x3c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000c64       0x30 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000c94       0x30 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000cc4       0x40 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000d04       0x38 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+ .debug_frame   0x0000000000000d3c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-realloc.o)
+ .debug_frame   0x0000000000000d64       0x3c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000000da0       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000dcc       0xf8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000ec4       0x44 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000f08       0x54 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000f5c       0x28 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000f84      0x170 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000010f4       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000001120       0x58 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-freer.o)
+ .debug_frame   0x0000000000001178       0x3c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000000000011b4       0x5c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000001210       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000000000000123c       0x30 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memmove.o)
+ .debug_frame   0x000000000000126c       0x48 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-reent.o)
+ .debug_frame   0x00000000000012b4       0x90 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-stdio.o)
+ .debug_frame   0x0000000000001344       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-writer.o)
+ .debug_frame   0x0000000000001370       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-wsetup.o)
+ .debug_frame   0x000000000000139c       0x3c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000013d8       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-closer.o)
+ .debug_frame   0x0000000000001404       0x44 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fclose.o)
+ .debug_frame   0x0000000000001448       0x68 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fflush.o)
+ .debug_frame   0x00000000000014b0       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000000014dc       0x50 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-makebuf.o)
+ .debug_frame   0x000000000000152c       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-readr.o)
+ .debug_frame   0x0000000000001558       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fstatr.o)
+ .debug_frame   0x0000000000001584       0x2c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000000015b0       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a(_muldi3.o)
