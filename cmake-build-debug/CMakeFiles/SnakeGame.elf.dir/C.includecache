@@ -23,6 +23,8 @@ oled_driver.h
 /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h
 xprintf.h
 /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.h
+string.h
+-
 
 /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h
 stdint.h

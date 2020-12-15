@@ -131,6 +131,8 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+ .text.push_pop
+                0x0000000000000000       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
@@ -411,7 +413,7 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x0000000008000000                g_pfnVectors
                 0x00000000080000c0                . = ALIGN (0x4)
 
-.text           0x00000000080000c0     0x13dc
+.text           0x00000000080000c0     0x1394
                 0x00000000080000c0                . = ALIGN (0x4)
  *(.text)
  .text          0x00000000080000c0       0x48 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
@@ -443,251 +445,250 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  .text.SystemClock_Config
                 0x0000000008000670       0xb8 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
                 0x0000000008000670                SystemClock_Config
- .text.main     0x0000000008000728      0x124 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .text.main     0x0000000008000728      0x13c CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
                 0x0000000008000728                main
  .text.NMI_Handler
-                0x000000000800084c        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
-                0x000000000800084c                NMI_Handler
+                0x0000000008000864        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x0000000008000864                NMI_Handler
  .text.HardFault_Handler
-                0x000000000800084e        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
-                0x000000000800084e                HardFault_Handler
+                0x0000000008000866        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x0000000008000866                HardFault_Handler
  .text.SVC_Handler
-                0x0000000008000850        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
-                0x0000000008000850                SVC_Handler
+                0x0000000008000868        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x0000000008000868                SVC_Handler
  .text.PendSV_Handler
-                0x0000000008000852        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
-                0x0000000008000852                PendSV_Handler
+                0x000000000800086a        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x000000000800086a                PendSV_Handler
  .text.SysTick_Handler
-                0x0000000008000854        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
-                0x0000000008000854                SysTick_Handler
+                0x000000000800086c        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+                0x000000000800086c                SysTick_Handler
  .text.SystemInit
-                0x0000000008000856        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
-                0x0000000008000856                SystemInit
+                0x000000000800086e        0x2 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+                0x000000000800086e                SystemInit
  .text.newPoint
-                0x0000000008000858       0x34 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
-                0x0000000008000858                newPoint
+                0x0000000008000870       0x34 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+                0x0000000008000870                newPoint
  .text.change_direction
-                0x000000000800088c       0x46 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x000000000800088c                change_direction
+                0x00000000080008a4       0x46 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x00000000080008a4                change_direction
  .text.draw_snake
-                0x00000000080008d2       0x22 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x00000000080008d2                draw_snake
- .text.push_pop
-                0x00000000080008f4       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x00000000080008f4                push_pop
- .text.push     0x0000000008000924       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x0000000008000924                push
+                0x00000000080008ea       0x22 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x00000000080008ea                draw_snake
+ .text.push     0x000000000800090c       0x30 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x000000000800090c                push
  .text.draw_food
-                0x0000000008000954       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x0000000008000954                draw_food
+                0x000000000800093c       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x000000000800093c                draw_food
  .text.new_food
-                0x0000000008000974       0x2e CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x0000000008000974                new_food
- *fill*         0x00000000080009a2        0x2 
+                0x000000000800095c       0x2e CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x000000000800095c                new_food
+ *fill*         0x000000000800098a        0x2 
  .text.move_forward
-                0x00000000080009a4      0x108 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x00000000080009a4                move_forward
+                0x000000000800098c       0xd8 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x000000000800098c                move_forward
  .text.generate_food
-                0x0000000008000aac       0x38 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                0x0000000008000aac                generate_food
- .text.get_pix  0x0000000008000ae4       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
-                0x0000000008000ae4                get_pix
+                0x0000000008000a64       0x38 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x0000000008000a64                generate_food
+ .text.get_pix  0x0000000008000a9c       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+                0x0000000008000a9c                get_pix
  .text.oled_cmd_send
-                0x0000000008000afc       0x40 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000ab4       0x40 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
  .text.oled_data_send
-                0x0000000008000b3c       0x58 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000af4       0x58 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
  .text.oled_clr
-                0x0000000008000b94       0x14 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
-                0x0000000008000b94                oled_clr
+                0x0000000008000b4c       0x14 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000b4c                oled_clr
  .text.oled_update
-                0x0000000008000ba8       0x38 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
-                0x0000000008000ba8                oled_update
+                0x0000000008000b60       0x38 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000b60                oled_update
  .text.oled_config
-                0x0000000008000be0       0x9c CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
-                0x0000000008000be0                oled_config
+                0x0000000008000b98       0x9c CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000b98                oled_config
  .text.oled_set_pix
-                0x0000000008000c7c       0x44 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
-                0x0000000008000c7c                oled_set_pix
+                0x0000000008000c34       0x44 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000c34                oled_set_pix
  .text.oled_putc
-                0x0000000008000cc0       0x84 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
-                0x0000000008000cc0                oled_putc
- .text.xputc    0x0000000008000d44       0x38 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
-                0x0000000008000d44                xputc
- .text.xputs    0x0000000008000d7c       0x14 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
-                0x0000000008000d7c                xputs
+                0x0000000008000c78       0x84 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+                0x0000000008000c78                oled_putc
+ .text.xputc    0x0000000008000cfc       0x38 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+                0x0000000008000cfc                xputc
+ .text.xputs    0x0000000008000d34       0x14 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+                0x0000000008000d34                xputs
  .text.xvprintf
-                0x0000000008000d90      0x200 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
- .text.xprintf  0x0000000008000f90       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
-                0x0000000008000f90                xprintf
+                0x0000000008000d48      0x200 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ .text.xprintf  0x0000000008000f48       0x18 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+                0x0000000008000f48                xprintf
  .text.LL_EXTI_Init
-                0x0000000008000fa8       0xcc CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
-                0x0000000008000fa8                LL_EXTI_Init
+                0x0000000008000f60       0xcc CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+                0x0000000008000f60                LL_EXTI_Init
  .text.LL_GPIO_Init
-                0x0000000008001074       0xa8 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
-                0x0000000008001074                LL_GPIO_Init
+                0x000000000800102c       0xa8 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+                0x000000000800102c                LL_GPIO_Init
  .text.LL_I2C_Init
-                0x000000000800111c       0x78 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
-                0x000000000800111c                LL_I2C_Init
+                0x00000000080010d4       0x78 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+                0x00000000080010d4                LL_I2C_Init
  .text.LL_Init1msTick
-                0x0000000008001194       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
-                0x0000000008001194                LL_Init1msTick
+                0x000000000800114c       0x20 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+                0x000000000800114c                LL_Init1msTick
  .text.LL_SetSystemCoreClock
-                0x00000000080011b4        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
-                0x00000000080011b4                LL_SetSystemCoreClock
+                0x000000000800116c        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+                0x000000000800116c                LL_SetSystemCoreClock
  .text.Reset_Handler
-                0x00000000080011c0       0x50 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
-                0x00000000080011c0                Reset_Handler
+                0x0000000008001178       0x50 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+                0x0000000008001178                Reset_Handler
  .text.Default_Handler
-                0x0000000008001210        0x2 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
-                0x0000000008001210                TIM1_CC_IRQHandler
-                0x0000000008001210                TSC_IRQHandler
-                0x0000000008001210                ADC1_COMP_IRQHandler
-                0x0000000008001210                PVD_IRQHandler
-                0x0000000008001210                I2C1_IRQHandler
-                0x0000000008001210                RCC_CRS_IRQHandler
-                0x0000000008001210                SPI1_IRQHandler
-                0x0000000008001210                TIM6_DAC_IRQHandler
-                0x0000000008001210                EXTI2_3_IRQHandler
-                0x0000000008001210                I2C2_IRQHandler
-                0x0000000008001210                TIM17_IRQHandler
-                0x0000000008001210                CEC_CAN_IRQHandler
-                0x0000000008001210                RTC_IRQHandler
-                0x0000000008001210                TIM16_IRQHandler
-                0x0000000008001210                TIM3_IRQHandler
-                0x0000000008001210                EXTI4_15_IRQHandler
-                0x0000000008001210                DMA1_Channel1_IRQHandler
-                0x0000000008001210                Default_Handler
-                0x0000000008001210                TIM14_IRQHandler
-                0x0000000008001210                DMA1_Channel4_5_IRQHandler
-                0x0000000008001210                TIM15_IRQHandler
-                0x0000000008001210                EXTI0_1_IRQHandler
-                0x0000000008001210                SPI2_IRQHandler
-                0x0000000008001210                WWDG_IRQHandler
-                0x0000000008001210                TIM2_IRQHandler
-                0x0000000008001210                DMA1_Channel2_3_IRQHandler
-                0x0000000008001210                USART2_IRQHandler
-                0x0000000008001210                FLASH_IRQHandler
-                0x0000000008001210                USART1_IRQHandler
-                0x0000000008001210                TIM1_BRK_UP_TRG_COM_IRQHandler
- *fill*         0x0000000008001212        0x2 
+                0x00000000080011c8        0x2 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+                0x00000000080011c8                TIM1_CC_IRQHandler
+                0x00000000080011c8                TSC_IRQHandler
+                0x00000000080011c8                ADC1_COMP_IRQHandler
+                0x00000000080011c8                PVD_IRQHandler
+                0x00000000080011c8                I2C1_IRQHandler
+                0x00000000080011c8                RCC_CRS_IRQHandler
+                0x00000000080011c8                SPI1_IRQHandler
+                0x00000000080011c8                TIM6_DAC_IRQHandler
+                0x00000000080011c8                EXTI2_3_IRQHandler
+                0x00000000080011c8                I2C2_IRQHandler
+                0x00000000080011c8                TIM17_IRQHandler
+                0x00000000080011c8                CEC_CAN_IRQHandler
+                0x00000000080011c8                RTC_IRQHandler
+                0x00000000080011c8                TIM16_IRQHandler
+                0x00000000080011c8                TIM3_IRQHandler
+                0x00000000080011c8                EXTI4_15_IRQHandler
+                0x00000000080011c8                DMA1_Channel1_IRQHandler
+                0x00000000080011c8                Default_Handler
+                0x00000000080011c8                TIM14_IRQHandler
+                0x00000000080011c8                DMA1_Channel4_5_IRQHandler
+                0x00000000080011c8                TIM15_IRQHandler
+                0x00000000080011c8                EXTI0_1_IRQHandler
+                0x00000000080011c8                SPI2_IRQHandler
+                0x00000000080011c8                WWDG_IRQHandler
+                0x00000000080011c8                TIM2_IRQHandler
+                0x00000000080011c8                DMA1_Channel2_3_IRQHandler
+                0x00000000080011c8                USART2_IRQHandler
+                0x00000000080011c8                FLASH_IRQHandler
+                0x00000000080011c8                USART1_IRQHandler
+                0x00000000080011c8                TIM1_BRK_UP_TRG_COM_IRQHandler
+ *fill*         0x00000000080011ca        0x2 
  .text.__libc_init_array
-                0x0000000008001214       0x48 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
-                0x0000000008001214                __libc_init_array
- .text.memset   0x000000000800125c       0x9c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
-                0x000000000800125c                memset
- .text.rand     0x00000000080012f8       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
-                0x00000000080012f8                rand
+                0x00000000080011cc       0x48 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-init.o)
+                0x00000000080011cc                __libc_init_array
+ .text.memset   0x0000000008001214       0x9c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-memset.o)
+                0x0000000008001214                memset
+ .text.rand     0x00000000080012b0       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-rand.o)
+                0x00000000080012b0                rand
  .text.startup.register_fini
-                0x000000000800132c       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
- .text.atexit   0x0000000008001344       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
-                0x0000000008001344                atexit
+                0x00000000080012e4       0x18 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x00000000080012fc       0x10 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-atexit.o)
+                0x00000000080012fc                atexit
  .text.__libc_fini_array
-                0x0000000008001354       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
-                0x0000000008001354                __libc_fini_array
+                0x000000000800130c       0x34 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-fini.o)
+                0x000000000800130c                __libc_fini_array
  .text.__retarget_lock_acquire_recursive
-                0x0000000008001388        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
-                0x0000000008001388                __retarget_lock_acquire_recursive
+                0x0000000008001340        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x0000000008001340                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x000000000800138c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
-                0x000000000800138c                __retarget_lock_release_recursive
+                0x0000000008001344        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-lock.o)
+                0x0000000008001344                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x0000000008001390       0xf4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
-                0x0000000008001390                __register_exitproc
+                0x0000000008001348       0xf4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__atexit.o)
+                0x0000000008001348                __register_exitproc
  *(.glue_7)
- .glue_7        0x0000000008001484        0x0 linker stubs
+ .glue_7        0x000000000800143c        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0000000008001484        0x0 linker stubs
+ .glue_7t       0x000000000800143c        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0000000008001484        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+ .eh_frame      0x000000000800143c        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
  *(.init)
- .init          0x0000000008001484        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
-                0x0000000008001484                _init
- .init          0x0000000008001488        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+ .init          0x000000000800143c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+                0x000000000800143c                _init
+ .init          0x0000000008001440        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
  *(.fini)
- .fini          0x0000000008001490        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
-                0x0000000008001490                _fini
- .fini          0x0000000008001494        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
-                0x000000000800149c                . = ALIGN (0x4)
-                0x000000000800149c                _etext = .
+ .fini          0x0000000008001448        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crti.o
+                0x0000000008001448                _fini
+ .fini          0x000000000800144c        0x8 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
+                0x0000000008001454                . = ALIGN (0x4)
+                0x0000000008001454                _etext = .
 
-.vfp11_veneer   0x000000000800149c        0x0
- .vfp11_veneer  0x000000000800149c        0x0 linker stubs
+.vfp11_veneer   0x0000000008001454        0x0
+ .vfp11_veneer  0x0000000008001454        0x0 linker stubs
 
-.v4_bx          0x000000000800149c        0x0
- .v4_bx         0x000000000800149c        0x0 linker stubs
+.v4_bx          0x0000000008001454        0x0
+ .v4_bx         0x0000000008001454        0x0 linker stubs
 
-.iplt           0x000000000800149c        0x0
- .iplt          0x000000000800149c        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+.iplt           0x0000000008001454        0x0
+ .iplt          0x0000000008001454        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
 
-.rodata         0x000000000800149c      0x574
-                0x000000000800149c                . = ALIGN (0x4)
+.rodata         0x0000000008001454      0x574
+                0x0000000008001454                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.main.str1.4
-                0x000000000800149c        0xb CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
- *fill*         0x00000000080014a7        0x1 
+                0x0000000008001454        0xb CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ *fill*         0x000000000800145f        0x1 
  .rodata.move_forward.str1.4
-                0x00000000080014a8        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                0x0000000008001460        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
                                           0xa (size before relaxing)
  .rodata.font_data
-                0x00000000080014b4      0x4fb CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
-                0x00000000080014b4                font_data
- *fill*         0x00000000080019af        0x1 
+                0x000000000800146c      0x4fb CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+                0x000000000800146c                font_data
+ *fill*         0x0000000008001967        0x1 
  .rodata.xvprintf
-                0x00000000080019b0       0x5c CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+                0x0000000008001968       0x5c CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
  .rodata._global_impure_ptr
-                0x0000000008001a0c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
-                0x0000000008001a0c                _global_impure_ptr
-                0x0000000008001a10                . = ALIGN (0x4)
+                0x00000000080019c4        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+                0x00000000080019c4                _global_impure_ptr
+                0x00000000080019c8                . = ALIGN (0x4)
 
-.rel.dyn        0x0000000008001a10        0x0
- .rel.iplt      0x0000000008001a10        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+.rel.dyn        0x00000000080019c8        0x0
+ .rel.iplt      0x00000000080019c8        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x0000000008001a10        0x0
-                0x0000000008001a10                __exidx_start = .
+.ARM            0x00000000080019c8        0x0
+                0x00000000080019c8                __exidx_start = .
  *(.ARM.exidx*)
-                0x0000000008001a10                __exidx_end = .
+                0x00000000080019c8                __exidx_end = .
 
-.preinit_array  0x0000000008001a10        0x0
-                0x0000000008001a10                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x00000000080019c8        0x0
+                0x00000000080019c8                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x0000000008001a10                PROVIDE (__preinit_array_end = .)
+                0x00000000080019c8                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x0000000008001a10        0x8
-                0x0000000008001a10                PROVIDE (__init_array_start = .)
+.init_array     0x00000000080019c8        0x8
+                0x00000000080019c8                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x0000000008001a10        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
+                0x00000000080019c8        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x0000000008001a14        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
-                0x0000000008001a18                PROVIDE (__init_array_end = .)
+ .init_array    0x00000000080019cc        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                0x00000000080019d0                PROVIDE (__init_array_end = .)
 
-.fini_array     0x0000000008001a18        0x4
-                0x0000000008001a18                PROVIDE (__fini_array_start = .)
+.fini_array     0x00000000080019d0        0x4
+                0x00000000080019d0                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000000008001a18        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
-                0x0000000008001a1c                PROVIDE (__fini_array_end = .)
-                0x0000000008001a1c                _sidata = LOADADDR (.data)
+ .fini_array    0x00000000080019d0        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
+                0x00000000080019d4                PROVIDE (__fini_array_end = .)
+                0x00000000080019d4                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000      0x444 load address 0x0000000008001a1c
+.data           0x0000000020000000      0x444 load address 0x00000000080019d4
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
  *(.data*)
+ .data.is_snake_alive
+                0x0000000020000000        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                0x0000000020000000                is_snake_alive
  .data.SystemCoreClock
-                0x0000000020000000        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
-                0x0000000020000000                SystemCoreClock
+                0x0000000020000004        0x4 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+                0x0000000020000004                SystemCoreClock
  .data.font_desc
-                0x0000000020000004        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
-                0x0000000020000004                font_desc
+                0x0000000020000008        0xc CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+                0x0000000020000008                font_desc
  .data._impure_ptr
-                0x0000000020000010        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
-                0x0000000020000010                _impure_ptr
- *fill*         0x0000000020000014        0x4 
+                0x0000000020000014        0x4 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
+                0x0000000020000014                _impure_ptr
  .data.impure_data
                 0x0000000020000018      0x428 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a(lib_a-impure.o)
  .data.__atexit_recursive_mutex
@@ -696,11 +697,11 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x0000000020000444                . = ALIGN (0x4)
                 0x0000000020000444                _edata = .
 
-.igot.plt       0x0000000020000444        0x0 load address 0x0000000008001e60
+.igot.plt       0x0000000020000444        0x0 load address 0x0000000008001e18
  .igot.plt      0x0000000020000444        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtbegin.o
                 0x0000000020000444                . = ALIGN (0x4)
 
-.bss            0x0000000020000444      0x44c load address 0x0000000008001e60
+.bss            0x0000000020000444      0x44c load address 0x0000000008001e18
                 0x0000000020000444                _sbss = .
                 0x0000000020000444                __bss_start__ = _sbss
  *(.bss)
@@ -731,7 +732,7 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x0000000020000890                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x0000000020000890      0x600 load address 0x0000000008001e60
+                0x0000000020000890      0x600 load address 0x0000000008001e18
                 0x0000000020000890                . = ALIGN (0x8)
                 0x0000000020000890                PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
@@ -809,48 +810,48 @@ LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
                 0x00000000000004c9       0x1e /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/crtn.o
 OUTPUT(SnakeGame.elf elf32-littlearm)
 
-.debug_info     0x0000000000000000     0x7f0d
- .debug_info    0x0000000000000000     0x1af7 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
- .debug_info    0x0000000000001af7      0x9c9 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
- .debug_info    0x00000000000024c0      0x242 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
- .debug_info    0x0000000000002702      0x99d CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
- .debug_info    0x000000000000309f      0xd9a CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
- .debug_info    0x0000000000003e39      0x992 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
- .debug_info    0x00000000000047cb     0x14a1 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
- .debug_info    0x0000000000005c6c      0x6e3 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
- .debug_info    0x000000000000634f      0x4ab CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
- .debug_info    0x00000000000067fa      0x72d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
- .debug_info    0x0000000000006f27      0x6a7 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
- .debug_info    0x00000000000075ce      0x91d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
- .debug_info    0x0000000000007eeb       0x22 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+.debug_info     0x0000000000000000     0x7eb9
+ .debug_info    0x0000000000000000     0x1b06 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x0000000000001b06      0x9c9 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_info    0x00000000000024cf      0x242 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_info    0x0000000000002711      0x99d CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+ .debug_info    0x00000000000030ae      0xd37 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+ .debug_info    0x0000000000003de5      0x992 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+ .debug_info    0x0000000000004777     0x14a1 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+ .debug_info    0x0000000000005c18      0x6e3 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ .debug_info    0x00000000000062fb      0x4ab CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_info    0x00000000000067a6      0x72d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_info    0x0000000000006ed3      0x6a7 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_info    0x000000000000757a      0x91d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_info    0x0000000000007e97       0x22 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
 
-.debug_abbrev   0x0000000000000000     0x1b6d
- .debug_abbrev  0x0000000000000000      0x435 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
- .debug_abbrev  0x0000000000000435      0x1bf CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
- .debug_abbrev  0x00000000000005f4       0xfd CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
- .debug_abbrev  0x00000000000006f1      0x20b CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
- .debug_abbrev  0x00000000000008fc      0x299 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
- .debug_abbrev  0x0000000000000b95      0x1e1 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
- .debug_abbrev  0x0000000000000d76      0x3e0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
- .debug_abbrev  0x0000000000001156      0x250 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
- .debug_abbrev  0x00000000000013a6      0x196 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
- .debug_abbrev  0x000000000000153c      0x1c4 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
- .debug_abbrev  0x0000000000001700      0x1a1 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
- .debug_abbrev  0x00000000000018a1      0x2ba CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
- .debug_abbrev  0x0000000000001b5b       0x12 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+.debug_abbrev   0x0000000000000000     0x1ba1
+ .debug_abbrev  0x0000000000000000      0x446 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x0000000000000446      0x1bf CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_abbrev  0x0000000000000605       0xfd CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_abbrev  0x0000000000000702      0x20b CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+ .debug_abbrev  0x000000000000090d      0x2bc CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+ .debug_abbrev  0x0000000000000bc9      0x1e1 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+ .debug_abbrev  0x0000000000000daa      0x3e0 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+ .debug_abbrev  0x000000000000118a      0x250 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ .debug_abbrev  0x00000000000013da      0x196 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_abbrev  0x0000000000001570      0x1c4 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_abbrev  0x0000000000001734      0x1a1 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_abbrev  0x00000000000018d5      0x2ba CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_abbrev  0x0000000000001b8f       0x12 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
 
-.debug_loc      0x0000000000000000     0x25b2
+.debug_loc      0x0000000000000000     0x255d
  .debug_loc     0x0000000000000000      0x3e9 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
  .debug_loc     0x00000000000003e9      0x13b CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
  .debug_loc     0x0000000000000524       0xf3 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
- .debug_loc     0x0000000000000617      0x2e3 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
- .debug_loc     0x00000000000008fa       0x42 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
- .debug_loc     0x000000000000093c      0x5c2 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
- .debug_loc     0x0000000000000efe      0x966 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
- .debug_loc     0x0000000000001864      0x235 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
- .debug_loc     0x0000000000001a99      0x36e CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
- .debug_loc     0x0000000000001e07      0x247 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
- .debug_loc     0x000000000000204e      0x564 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_loc     0x0000000000000617      0x28e CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+ .debug_loc     0x00000000000008a5       0x42 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+ .debug_loc     0x00000000000008e7      0x5c2 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+ .debug_loc     0x0000000000000ea9      0x966 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ .debug_loc     0x000000000000180f      0x235 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_loc     0x0000000000001a44      0x36e CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_loc     0x0000000000001db2      0x247 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_loc     0x0000000000001ff9      0x564 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
 
 .debug_aranges  0x0000000000000000      0x358
  .debug_aranges
@@ -895,47 +896,47 @@ OUTPUT(SnakeGame.elf elf32-littlearm)
  .debug_ranges  0x0000000000000250       0x50 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
  .debug_ranges  0x00000000000002a0       0x20 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
 
-.debug_line     0x0000000000000000     0x22d4
- .debug_line    0x0000000000000000      0x550 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
- .debug_line    0x0000000000000550      0x2b7 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
- .debug_line    0x0000000000000807      0x17a CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
- .debug_line    0x0000000000000981      0x13c CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
- .debug_line    0x0000000000000abd      0x299 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
- .debug_line    0x0000000000000d56      0x139 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
- .debug_line    0x0000000000000e8f      0x4b8 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
- .debug_line    0x0000000000001347      0x321 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
- .debug_line    0x0000000000001668      0x28d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
- .debug_line    0x00000000000018f5      0x2af CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
- .debug_line    0x0000000000001ba4      0x271 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
- .debug_line    0x0000000000001e15      0x419 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
- .debug_line    0x000000000000222e       0xa6 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+.debug_line     0x0000000000000000     0x22bd
+ .debug_line    0x0000000000000000      0x551 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x0000000000000551      0x2b7 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+ .debug_line    0x0000000000000808      0x17a CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_line    0x0000000000000982      0x13c CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+ .debug_line    0x0000000000000abe      0x281 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+ .debug_line    0x0000000000000d3f      0x139 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+ .debug_line    0x0000000000000e78      0x4b8 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+ .debug_line    0x0000000000001330      0x321 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ .debug_line    0x0000000000001651      0x28d CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_line    0x00000000000018de      0x2af CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_line    0x0000000000001b8d      0x271 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_line    0x0000000000001dfe      0x419 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_line    0x0000000000002217       0xa6 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
 
-.debug_str      0x0000000000000000     0x17af
- .debug_str     0x0000000000000000      0xbd4 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
-                                        0xcd8 (size before relaxing)
- .debug_str     0x0000000000000bd4       0x88 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
+.debug_str      0x0000000000000000     0x17be
+ .debug_str     0x0000000000000000      0xbe3 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
+                                        0xce7 (size before relaxing)
+ .debug_str     0x0000000000000be3       0x88 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
                                         0x67f (size before relaxing)
- .debug_str     0x0000000000000c5c       0x83 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+ .debug_str     0x0000000000000c6b       0x83 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
                                         0x2b0 (size before relaxing)
- .debug_str     0x0000000000000cdf       0x52 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+ .debug_str     0x0000000000000cee       0x52 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
                                         0x617 (size before relaxing)
- .debug_str     0x0000000000000d31       0xa1 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
-                                        0x702 (size before relaxing)
- .debug_str     0x0000000000000dd2       0x77 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+ .debug_str     0x0000000000000d40       0xa1 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+                                        0x711 (size before relaxing)
+ .debug_str     0x0000000000000de1       0x77 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
                                         0x5fe (size before relaxing)
- .debug_str     0x0000000000000e49      0x1aa CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+ .debug_str     0x0000000000000e58      0x1aa CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
                                         0x842 (size before relaxing)
- .debug_str     0x0000000000000ff3       0xb6 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ .debug_str     0x0000000000001002       0xb6 CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
                                         0x236 (size before relaxing)
- .debug_str     0x00000000000010a9      0x1a1 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
+ .debug_str     0x00000000000010b8      0x1a1 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
                                         0x3ee (size before relaxing)
- .debug_str     0x000000000000124a      0x11a CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
+ .debug_str     0x0000000000001259      0x11a CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
                                         0x42c (size before relaxing)
- .debug_str     0x0000000000001364      0x163 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
+ .debug_str     0x0000000000001373      0x163 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj
                                         0x47b (size before relaxing)
- .debug_str     0x00000000000014c7      0x295 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
+ .debug_str     0x00000000000014d6      0x295 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
                                         0x654 (size before relaxing)
- .debug_str     0x000000000000175c       0x53 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
+ .debug_str     0x000000000000176b       0x53 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
                                          0x8c (size before relaxing)
 
 .comment        0x0000000000000000       0x7f

@@ -42,7 +42,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+int is_snake_alive = 1;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -132,6 +132,8 @@ int main(void)
 
   Snake_xt snake;
   snake.queue[0] = *newPoint(&p_pull, 64, 32);
+//  snake.queue[1] = *newPoint(&p_pull, 64, 31);
+//  snake.queue[2] = *newPoint(&p_pull, 64, 30);
   snake.queue_size = 1;
 
   generate_food(&snake);
@@ -139,7 +141,7 @@ int main(void)
   snake.direction = UP;
   move_forward(&snake, newPoint(&p_pull, 0, 0));
   oled_update();
-  while (1)
+  while (is_snake_alive)
   {
     /* USER CODE END WHILE */
       if (is_pressed(GPIOA, LL_GPIO_PIN_1)) {

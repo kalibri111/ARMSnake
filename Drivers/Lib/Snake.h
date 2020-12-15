@@ -9,6 +9,8 @@
 #include "oled_driver.h"
 #include "xprintf.h"
 
+#include<string.h>
+
 typedef enum Direction {
     UP,
     DOWN,

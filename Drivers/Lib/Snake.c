@@ -4,6 +4,8 @@
 
 #include "Snake.h"
 
+extern int is_snake_alive;
+
 void new_food(Snake_xt* snake, int food_index) {
     int new_x = rand() % 100;
     int new_y = rand() % 100;
@@ -41,6 +43,7 @@ void move_forward(Snake_xt* snake, Point_xt* new_point) {
         oled_clr(0x00);
         xprintf("GAME OVER");
         oled_update();
+        is_snake_alive = 0;
         return;
     }
 
@@ -54,11 +57,13 @@ void move_forward(Snake_xt* snake, Point_xt* new_point) {
         }
     }
 
+
     for (int i = 0; i < snake->queue_size; ++i) {
         if (new_point->x == snake->queue[i].x && new_point->y == snake->queue[i].y) {
             oled_clr(0x00);
             xprintf("GAME OVER");
             oled_update();
+            is_snake_alive = 0;
             return;
         }
     }
@@ -67,6 +72,7 @@ void move_forward(Snake_xt* snake, Point_xt* new_point) {
     oled_clr(0x00);
     draw_snake(snake);
     draw_food(snake);
+
 }
 
 void change_direction(Snake_xt* snake, Direction_xt dir) {
