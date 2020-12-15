@@ -3,3 +3,7 @@ CMakeLists_template.txt
 SnakeGame.ioc
 STM32F051R8Tx_FLASH.ld
 cmake-build-debug
+.idea
+.project
+.cproject
+.mxproject
