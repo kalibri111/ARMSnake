@@ -16,6 +16,10 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
  ../Drivers/CMSIS/Include/cmsis_iccarm.h
  ../Drivers/CMSIS/Include/cmsis_version.h
  ../Drivers/CMSIS/Include/core_cm0.h
+ ../Drivers/Lib/Point.h
+ ../Drivers/Lib/Snake.h
+ ../Drivers/Lib/oled_driver.h
+ ../Drivers/Lib/xprintf.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_cortex.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_crs.h
@@ -27,12 +31,6 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h
- ../Lib/Food.h
- ../Lib/Point.h
- ../Lib/Snake.h
- ../Lib/deque.h
- ../Lib/oled_driver.h
- ../Lib/xprintf.h
  /home/kalibri/STM32/projects/SnakeGame/Core/Src/main.c
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
  ../Core/Inc/main.h
@@ -48,6 +46,10 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
  ../Drivers/CMSIS/Include/cmsis_iccarm.h
  ../Drivers/CMSIS/Include/cmsis_version.h
  ../Drivers/CMSIS/Include/core_cm0.h
+ ../Drivers/Lib/Point.h
+ ../Drivers/Lib/Snake.h
+ ../Drivers/Lib/oled_driver.h
+ ../Drivers/Lib/xprintf.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_cortex.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_crs.h
@@ -59,12 +61,6 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h
- ../Lib/Food.h
- ../Lib/Point.h
- ../Lib/Snake.h
- ../Lib/deque.h
- ../Lib/oled_driver.h
- ../Lib/xprintf.h
  /home/kalibri/STM32/projects/SnakeGame/Core/Src/stm32f0xx_it.c
 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
  /home/kalibri/STM32/projects/SnakeGame/Core/Src/syscalls.c
@@ -80,6 +76,40 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
  ../Drivers/CMSIS/Include/cmsis_version.h
  ../Drivers/CMSIS/Include/core_cm0.h
  /home/kalibri/STM32/projects/SnakeGame/Core/Src/system_stm32f0xx.c
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.c
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.h
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.h
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.c
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.h
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/font5x7.c
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+ ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
+ ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
+ ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h
+ ../Drivers/CMSIS/Include/cmsis_armcc.h
+ ../Drivers/CMSIS/Include/cmsis_armclang.h
+ ../Drivers/CMSIS/Include/cmsis_compiler.h
+ ../Drivers/CMSIS/Include/cmsis_gcc.h
+ ../Drivers/CMSIS/Include/cmsis_iccarm.h
+ ../Drivers/CMSIS/Include/cmsis_version.h
+ ../Drivers/CMSIS/Include/core_cm0.h
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_i2c.h
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
+ ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.c
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.c
+ /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.h
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
  ../Core/Inc/stm32_assert.h
  ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
@@ -183,47 +213,3 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
  ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h
  /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
- /home/kalibri/STM32/projects/SnakeGame/Lib/Food.c
- /home/kalibri/STM32/projects/SnakeGame/Lib/Food.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/Point.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/deque.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
- /home/kalibri/STM32/projects/SnakeGame/Lib/Point.c
- /home/kalibri/STM32/projects/SnakeGame/Lib/Point.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
- /home/kalibri/STM32/projects/SnakeGame/Lib/Food.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/Point.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/Snake.c
- /home/kalibri/STM32/projects/SnakeGame/Lib/Snake.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/deque.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.h
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
- /home/kalibri/STM32/projects/SnakeGame/Lib/Point.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/deque.c
- /home/kalibri/STM32/projects/SnakeGame/Lib/deque.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
- ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
- ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
- ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h
- ../Drivers/CMSIS/Include/cmsis_armcc.h
- ../Drivers/CMSIS/Include/cmsis_armclang.h
- ../Drivers/CMSIS/Include/cmsis_compiler.h
- ../Drivers/CMSIS/Include/cmsis_gcc.h
- ../Drivers/CMSIS/Include/cmsis_iccarm.h
- ../Drivers/CMSIS/Include/cmsis_version.h
- ../Drivers/CMSIS/Include/core_cm0.h
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_i2c.h
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
- ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
- /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.c
- /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
- /home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.c
- /home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.h

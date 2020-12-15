@@ -58,9 +58,6 @@ CMAKE_CODEBLOCKS_MAKE_ARGUMENTS:STRING=-j4
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
-//No help, variable specified on the command line.
-CMAKE_CXX_COMPILER:UNINITIALIZED=/usr/bin/arm-none-eabi-g++
-
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
 CMAKE_CXX_COMPILER_AR:FILEPATH=/usr/bin/arm-none-eabi-gcc-ar
@@ -284,8 +281,6 @@ CMAKE_COMMAND:INTERNAL=/snap/clion/137/bin/cmake/linux/bin/cmake
 CMAKE_CPACK_COMMAND:INTERNAL=/snap/clion/137/bin/cmake/linux/bin/cpack
 //Path to ctest program executable.
 CMAKE_CTEST_COMMAND:INTERNAL=/snap/clion/137/bin/cmake/linux/bin/ctest
-//ADVANCED property for variable: CMAKE_CXX_COMPILER
-CMAKE_CXX_COMPILER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_COMPILER_AR
 CMAKE_CXX_COMPILER_AR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_COMPILER_RANLIB
@@ -300,6 +295,8 @@ CMAKE_CXX_FLAGS_MINSIZEREL-ADVANCED:INTERNAL=1
 CMAKE_CXX_FLAGS_RELEASE-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_CXX_FLAGS_RELWITHDEBINFO
 CMAKE_CXX_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: CMAKE_C_COMPILER
+CMAKE_C_COMPILER-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_C_COMPILER_AR
 CMAKE_C_COMPILER_AR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_C_COMPILER_RANLIB

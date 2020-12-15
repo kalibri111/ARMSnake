@@ -129,9 +129,74 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Core/Src/system_stm32f0xx.c -o CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.s
 
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj: ../Drivers/Lib/Point.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.c
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.c > CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.i
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.c -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.s
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: ../Drivers/Lib/Snake.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.c
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.c > CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.i
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.c -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.s
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj: ../Drivers/Lib/font5x7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/font5x7.c
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/font5x7.c > CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.i
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/font5x7.c -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.s
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/Lib/oled_driver.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.c
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.c > CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.i
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.c -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.s
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj: ../Drivers/Lib/xprintf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.c
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.c > CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.i
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.c -o CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.s
+
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.i: cmake_force
@@ -144,7 +209,7 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.i: cmake_force
@@ -157,7 +222,7 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.i: cmake_force
@@ -170,7 +235,7 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c.i: cmake_force
@@ -183,7 +248,7 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_i2c.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.i: cmake_force
@@ -196,7 +261,7 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.i: cmake_force
@@ -209,7 +274,7 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.i: cmake_force
@@ -220,87 +285,9 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c -o CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.s
 
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: ../Lib/Food.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Lib/Food.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Lib/Food.c > CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.i
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Lib/Food.c -o CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.s
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj: ../Lib/Point.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Lib/Point.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Lib/Point.c > CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.i
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Lib/Point.c -o CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.s
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/Snake.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Lib/Snake.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Lib/Snake.c > CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.i
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Lib/Snake.c -o CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.s
-
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj: ../Lib/deque.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Lib/deque.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Lib/deque.c > CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.i
-
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Lib/deque.c -o CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.s
-
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Lib/oled_driver.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.c > CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.i
-
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.c -o CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.s
-
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj: ../Lib/xprintf.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj   -c /home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.c > CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.i
-
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.c -o CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.s
-
 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj: CMakeFiles/SnakeGame.elf.dir/flags.make
 CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj: ../startup/startup_stm32f051x8.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building ASM object CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building ASM object CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj -c /home/kalibri/STM32/projects/SnakeGame/startup/startup_stm32f051x8.s
 
 # Object files for target SnakeGame.elf
@@ -309,6 +296,11 @@ SnakeGame_elf_OBJECTS = \
 "CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj" \
+"CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj" \
+"CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj" \
+"CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj" \
+"CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj" \
+"CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj" \
@@ -316,12 +308,6 @@ SnakeGame_elf_OBJECTS = \
 "CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj" \
-"CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj" \
-"CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj" \
-"CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj" \
-"CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj" \
-"CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj" \
-"CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj" \
 "CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj"
 
 # External object files for target SnakeGame.elf
@@ -331,6 +317,11 @@ SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj
+SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj
@@ -338,16 +329,10 @@ SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj
-SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
-SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
-SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
-SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
-SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
-SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/startup/startup_stm32f051x8.s.obj
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/build.make
 SnakeGame.elf: CMakeFiles/SnakeGame.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking C executable SnakeGame.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking C executable SnakeGame.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SnakeGame.elf.dir/link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building /home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/SnakeGame.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building /home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/SnakeGame.bin"

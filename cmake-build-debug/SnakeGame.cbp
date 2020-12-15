@@ -60,7 +60,6 @@
 					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Inc"/>
 					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Drivers/CMSIS/Device/ST/STM32F0xx/Include"/>
 					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Drivers/CMSIS/Include"/>
-					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Lib"/>
 					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/include/c++/7.3.1"/>
 					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/include/c++/7.3.1/arm-none-eabi"/>
 					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/include/c++/7.3.1/backward"/>
@@ -98,7 +97,6 @@
 					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Inc"/>
 					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Drivers/CMSIS/Device/ST/STM32F0xx/Include"/>
 					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Drivers/CMSIS/Include"/>
-					<Add directory="/home/kalibri/STM32/projects/SnakeGame/Lib"/>
 					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/include/c++/7.3.1"/>
 					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/include/c++/7.3.1/arm-none-eabi"/>
 					<Add directory="/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/include/c++/7.3.1/backward"/>
@@ -207,6 +205,33 @@
 		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/CMSIS/Include/tz_context.h">
 			<Option target="SnakeGame.elf"/>
 		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.c">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.h">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.c">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.h">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/font5x7.c">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.c">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.h">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.c">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
+		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.h">
+			<Option target="SnakeGame.elf"/>
+		</Unit>
 		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h">
 			<Option target="SnakeGame.elf"/>
 		</Unit>
@@ -259,42 +284,6 @@
 			<Option target="SnakeGame.elf"/>
 		</Unit>
 		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/Food.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/Food.h">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/Point.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/Point.h">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/Snake.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/Snake.h">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/deque.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/deque.h">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.h">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.c">
-			<Option target="SnakeGame.elf"/>
-		</Unit>
-		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.h">
 			<Option target="SnakeGame.elf"/>
 		</Unit>
 		<Unit filename="/home/kalibri/STM32/projects/SnakeGame/STM32F051R8Tx_FLASH.ld">

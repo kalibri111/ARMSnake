@@ -15,6 +15,10 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/CMSIS/Include/cmsis
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/CMSIS/Include/cmsis_iccarm.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/CMSIS/Include/cmsis_version.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/CMSIS/Include/core_cm0.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/Lib/Point.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/Lib/Snake.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/Lib/oled_driver.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/Lib/xprintf.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_cortex.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_crs.h
@@ -26,12 +30,6 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Drive
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Lib/Food.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Lib/Point.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Lib/Snake.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Lib/deque.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Lib/xprintf.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj: ../Core/Src/main.c
 
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Core/Inc/main.h
@@ -47,6 +45,10 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/CMSIS/Inclu
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/CMSIS/Include/cmsis_iccarm.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/CMSIS/Include/cmsis_version.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/CMSIS/Include/core_cm0.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/Lib/Point.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/Lib/Snake.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/Lib/oled_driver.h
+CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/Lib/xprintf.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_cortex.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_crs.h
@@ -58,12 +60,6 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_H
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Lib/Food.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Lib/Point.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Lib/Snake.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Lib/deque.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Lib/xprintf.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj: ../Core/Src/stm32f0xx_it.c
 
 CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj: ../Core/Src/syscalls.c
@@ -79,6 +75,40 @@ CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj: ../Drivers/CMSIS/I
 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj: ../Drivers/CMSIS/Include/cmsis_version.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj: ../Drivers/CMSIS/Include/core_cm0.h
 CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj: ../Core/Src/system_stm32f0xx.c
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj: ../Drivers/Lib/Point.c
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj: ../Drivers/Lib/Point.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj: ../Drivers/Lib/oled_driver.h
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: ../Drivers/Lib/Point.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: ../Drivers/Lib/Snake.c
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: ../Drivers/Lib/Snake.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: ../Drivers/Lib/oled_driver.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj: ../Drivers/Lib/xprintf.h
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj: ../Drivers/Lib/font5x7.c
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj: ../Drivers/Lib/oled_driver.h
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_armcc.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_armclang.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_compiler.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_gcc.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_iccarm.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_version.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/core_cm0.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_i2c.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/Lib/oled_driver.c
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj: ../Drivers/Lib/oled_driver.h
+
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj: ../Drivers/Lib/xprintf.c
+CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj: ../Drivers/Lib/xprintf.h
 
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj: ../Core/Inc/stm32_assert.h
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
@@ -182,48 +212,4 @@ CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h
 CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: ../Lib/Food.c
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: ../Lib/Food.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: ../Lib/Point.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: ../Lib/deque.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj: ../Lib/oled_driver.h
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj: ../Lib/Point.c
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj: ../Lib/Point.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj: ../Lib/oled_driver.h
-
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/Food.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/Point.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/Snake.c
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/Snake.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/deque.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/oled_driver.h
-CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj: ../Lib/xprintf.h
-
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj: ../Lib/Point.h
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj: ../Lib/deque.c
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj: ../Lib/deque.h
-CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj: ../Lib/oled_driver.h
-
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_armcc.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_armclang.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_compiler.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_gcc.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_iccarm.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/cmsis_version.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/CMSIS/Include/core_cm0.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_i2c.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Lib/oled_driver.c
-CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj: ../Lib/oled_driver.h
-
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj: ../Lib/xprintf.c
-CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj: ../Lib/xprintf.h
 

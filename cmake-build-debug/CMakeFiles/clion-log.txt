@@ -1,4 +1,4 @@
-/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/usr/bin/arm-none-eabi-g++ -G "CodeBlocks - Unix Makefiles" /home/kalibri/STM32/projects/SnakeGame
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/arm-none-eabi-gcc -G "CodeBlocks - Unix Makefiles" /home/kalibri/STM32/projects/SnakeGame
 -- Minimal optimization, debug info included
 -- Configuring done
 -- Generating done

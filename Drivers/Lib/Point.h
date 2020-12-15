@@ -12,10 +12,19 @@ typedef struct Point {
     int y;
 } Point_xt;
 
-Point_xt* newPoint(int x_val, int y_val);
+/*
+ * static buffer for Points
+ * */
+typedef struct PointPool {
+    Point_xt points[100];
+    int size;
+} PointPool_xt;
 
 void drawPoint(Point_xt* point);
 
-void destroyPoint(Point_xt* point);
+/*
+ * stack type allocator for Point with overflow
+ * */
+Point_xt* newPoint(PointPool_xt* pull, int x, int y);
 
 #endif //SNAKEGAME_POINT_H

@@ -11,7 +11,8 @@ static uint8_t gmem[GMEM_SIZE] = {0};
 static uint8_t curX = 0;
 static uint8_t curY = 0;
 
-font_desc_t font_desc;
+
+extern font_desc_t font_desc;
 
 static void oled_hw_config(void)
 {
@@ -139,7 +140,7 @@ void oled_config(void)
 {
     uint32_t delay = 2000000;
     // Config hardware
-    oled_hw_config();
+//    oled_hw_config();
 
     // Wait a bit
     while (delay--);

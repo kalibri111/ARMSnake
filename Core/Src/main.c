@@ -67,18 +67,15 @@ __attribute__((naked)) static void delay_10ms(void)
     asm (".word 0xea60"); //60000
 }
 
-int is_pressed(GPIO_TypeDef* GPIOx, uint8_t pin) {
-    int counter = 0;
-    while (LL_GPIO_ReadInputPort(GPIOx) & pin) {
-        delay_10ms();
-        counter++;
-    }
+int is_pressed(GPIO_TypeDef* GPIOx, uint32_t PinMask) {
 
-    if (counter > 100) {
-        return 1;
+    if (LL_GPIO_IsInputPinSet(GPIOx, PinMask)) {
+        delay_10ms();
+        return LL_GPIO_IsInputPinSet(GPIOx, PinMask);
     }
     return 0;
 }
+
 /* USER CODE END 0 */
 
 /**
@@ -88,7 +85,6 @@ int is_pressed(GPIO_TypeDef* GPIOx, uint8_t pin) {
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-    char MEMPOOL[32*1024] = {};
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
@@ -122,27 +118,47 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   Direction_xt global_dir = UP;
-  Snake_xt* snake = newSnake();
-  move_forward(snake);
+
+  PointPool_xt p_pull;
+  p_pull.size = 1;
+
+  xprintf("SNAKE GAME");
+
+  oled_update();
+
+    for (int i = 0; i < 10; ++i) {
+        delay_10ms();
+    }
+
+  Snake_xt snake;
+  snake.queue[0] = *newPoint(&p_pull, 64, 32);
+  snake.queue_size = 1;
+
+  generate_food(&snake);
+
+  snake.direction = UP;
+  move_forward(&snake, newPoint(&p_pull, 0, 0));
+  oled_update();
   while (1)
   {
     /* USER CODE END WHILE */
-      if (is_pressed(GPIOA, 0b00000001)) {
+      if (is_pressed(GPIOA, LL_GPIO_PIN_1)) {
           global_dir = UP;
-      } else if (is_pressed(GPIOA, 0b00000010)) {
+      } else if (is_pressed(GPIOA, LL_GPIO_PIN_2)) {
           global_dir = RIGHT;
-      } else if (is_pressed(GPIOA, 0b00000011)) {
+      } else if (is_pressed(GPIOA, LL_GPIO_PIN_3)) {
           global_dir = LEFT;
-      } else if (is_pressed(GPIOA, 0b00000100)) {
+      } else if (is_pressed(GPIOA, LL_GPIO_PIN_4)) {
           global_dir = DOWN;
       }
-      change_direction(snake, global_dir);
+      change_direction(&snake, global_dir);
 
       for (int i = 0; i < 10; ++i) {
           delay_10ms();
       }
 
-      move_forward(snake);
+      move_forward(&snake, newPoint(&p_pull, 0, 0));
+      oled_update();
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */

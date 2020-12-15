@@ -47,6 +47,7 @@ extern "C" {
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "../../Lib/Snake.h"
+#include "../../Lib/Point.h"
 #include "../../Lib/oled_driver.h"
 #include "../../Lib/xprintf.h"
 /* USER CODE END Includes */

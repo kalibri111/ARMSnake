@@ -46,11 +46,11 @@ else ()
     add_compile_options(-Og -g)
 endif ()
 
-include_directories(Core/Inc Drivers/STM32F0xx_HAL_Driver/Inc Drivers/CMSIS/Device/ST/STM32F0xx/Include Drivers/CMSIS/Include Lib)
+include_directories(Core/Inc Drivers/STM32F0xx_HAL_Driver/Inc Drivers/CMSIS/Device/ST/STM32F0xx/Include Drivers/CMSIS/Include)
 
 add_definitions(-DUSE_FULL_LL_DRIVER -DHSE_VALUE=8000000 -DHSE_STARTUP_TIMEOUT=100 -DLSE_STARTUP_TIMEOUT=5000 -DLSE_VALUE=32768 -DHSI_VALUE=8000000 -DLSI_VALUE=40000 -DVDD_VALUE=3300 -DPREFETCH_ENABLE=1 -DINSTRUCTION_CACHE_ENABLE=0 -DDATA_CACHE_ENABLE=0 -DSTM32F051x8)
 
-file(GLOB_RECURSE SOURCES "startup/*.*" "Drivers/*.*" "Core/*.*" "Lib/*.*")
+file(GLOB_RECURSE SOURCES "startup/*.*" "Drivers/*.*" "Core/*.*")
 
 set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F051R8Tx_FLASH.ld)
 

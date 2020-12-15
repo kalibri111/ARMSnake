@@ -251,6 +251,141 @@ Core/Src/system_stm32f0xx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.s
 .PHONY : Core/Src/system_stm32f0xx.c.s
 
+Drivers/Lib/Point.obj: Drivers/Lib/Point.c.obj
+
+.PHONY : Drivers/Lib/Point.obj
+
+# target to build an object file
+Drivers/Lib/Point.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj
+.PHONY : Drivers/Lib/Point.c.obj
+
+Drivers/Lib/Point.i: Drivers/Lib/Point.c.i
+
+.PHONY : Drivers/Lib/Point.i
+
+# target to preprocess a source file
+Drivers/Lib/Point.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.i
+.PHONY : Drivers/Lib/Point.c.i
+
+Drivers/Lib/Point.s: Drivers/Lib/Point.c.s
+
+.PHONY : Drivers/Lib/Point.s
+
+# target to generate assembly for a file
+Drivers/Lib/Point.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.s
+.PHONY : Drivers/Lib/Point.c.s
+
+Drivers/Lib/Snake.obj: Drivers/Lib/Snake.c.obj
+
+.PHONY : Drivers/Lib/Snake.obj
+
+# target to build an object file
+Drivers/Lib/Snake.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj
+.PHONY : Drivers/Lib/Snake.c.obj
+
+Drivers/Lib/Snake.i: Drivers/Lib/Snake.c.i
+
+.PHONY : Drivers/Lib/Snake.i
+
+# target to preprocess a source file
+Drivers/Lib/Snake.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.i
+.PHONY : Drivers/Lib/Snake.c.i
+
+Drivers/Lib/Snake.s: Drivers/Lib/Snake.c.s
+
+.PHONY : Drivers/Lib/Snake.s
+
+# target to generate assembly for a file
+Drivers/Lib/Snake.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.s
+.PHONY : Drivers/Lib/Snake.c.s
+
+Drivers/Lib/font5x7.obj: Drivers/Lib/font5x7.c.obj
+
+.PHONY : Drivers/Lib/font5x7.obj
+
+# target to build an object file
+Drivers/Lib/font5x7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj
+.PHONY : Drivers/Lib/font5x7.c.obj
+
+Drivers/Lib/font5x7.i: Drivers/Lib/font5x7.c.i
+
+.PHONY : Drivers/Lib/font5x7.i
+
+# target to preprocess a source file
+Drivers/Lib/font5x7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.i
+.PHONY : Drivers/Lib/font5x7.c.i
+
+Drivers/Lib/font5x7.s: Drivers/Lib/font5x7.c.s
+
+.PHONY : Drivers/Lib/font5x7.s
+
+# target to generate assembly for a file
+Drivers/Lib/font5x7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.s
+.PHONY : Drivers/Lib/font5x7.c.s
+
+Drivers/Lib/oled_driver.obj: Drivers/Lib/oled_driver.c.obj
+
+.PHONY : Drivers/Lib/oled_driver.obj
+
+# target to build an object file
+Drivers/Lib/oled_driver.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj
+.PHONY : Drivers/Lib/oled_driver.c.obj
+
+Drivers/Lib/oled_driver.i: Drivers/Lib/oled_driver.c.i
+
+.PHONY : Drivers/Lib/oled_driver.i
+
+# target to preprocess a source file
+Drivers/Lib/oled_driver.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.i
+.PHONY : Drivers/Lib/oled_driver.c.i
+
+Drivers/Lib/oled_driver.s: Drivers/Lib/oled_driver.c.s
+
+.PHONY : Drivers/Lib/oled_driver.s
+
+# target to generate assembly for a file
+Drivers/Lib/oled_driver.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.s
+.PHONY : Drivers/Lib/oled_driver.c.s
+
+Drivers/Lib/xprintf.obj: Drivers/Lib/xprintf.c.obj
+
+.PHONY : Drivers/Lib/xprintf.obj
+
+# target to build an object file
+Drivers/Lib/xprintf.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj
+.PHONY : Drivers/Lib/xprintf.c.obj
+
+Drivers/Lib/xprintf.i: Drivers/Lib/xprintf.c.i
+
+.PHONY : Drivers/Lib/xprintf.i
+
+# target to preprocess a source file
+Drivers/Lib/xprintf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.i
+.PHONY : Drivers/Lib/xprintf.c.i
+
+Drivers/Lib/xprintf.s: Drivers/Lib/xprintf.c.s
+
+.PHONY : Drivers/Lib/xprintf.s
+
+# target to generate assembly for a file
+Drivers/Lib/xprintf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.s
+.PHONY : Drivers/Lib/xprintf.c.s
+
 Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.obj: Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj
 
 .PHONY : Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.obj
@@ -440,168 +575,6 @@ Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.s
 .PHONY : Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.s
 
-Lib/Food.obj: Lib/Food.c.obj
-
-.PHONY : Lib/Food.obj
-
-# target to build an object file
-Lib/Food.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj
-.PHONY : Lib/Food.c.obj
-
-Lib/Food.i: Lib/Food.c.i
-
-.PHONY : Lib/Food.i
-
-# target to preprocess a source file
-Lib/Food.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.i
-.PHONY : Lib/Food.c.i
-
-Lib/Food.s: Lib/Food.c.s
-
-.PHONY : Lib/Food.s
-
-# target to generate assembly for a file
-Lib/Food.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.s
-.PHONY : Lib/Food.c.s
-
-Lib/Point.obj: Lib/Point.c.obj
-
-.PHONY : Lib/Point.obj
-
-# target to build an object file
-Lib/Point.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj
-.PHONY : Lib/Point.c.obj
-
-Lib/Point.i: Lib/Point.c.i
-
-.PHONY : Lib/Point.i
-
-# target to preprocess a source file
-Lib/Point.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.i
-.PHONY : Lib/Point.c.i
-
-Lib/Point.s: Lib/Point.c.s
-
-.PHONY : Lib/Point.s
-
-# target to generate assembly for a file
-Lib/Point.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.s
-.PHONY : Lib/Point.c.s
-
-Lib/Snake.obj: Lib/Snake.c.obj
-
-.PHONY : Lib/Snake.obj
-
-# target to build an object file
-Lib/Snake.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj
-.PHONY : Lib/Snake.c.obj
-
-Lib/Snake.i: Lib/Snake.c.i
-
-.PHONY : Lib/Snake.i
-
-# target to preprocess a source file
-Lib/Snake.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.i
-.PHONY : Lib/Snake.c.i
-
-Lib/Snake.s: Lib/Snake.c.s
-
-.PHONY : Lib/Snake.s
-
-# target to generate assembly for a file
-Lib/Snake.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.s
-.PHONY : Lib/Snake.c.s
-
-Lib/deque.obj: Lib/deque.c.obj
-
-.PHONY : Lib/deque.obj
-
-# target to build an object file
-Lib/deque.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj
-.PHONY : Lib/deque.c.obj
-
-Lib/deque.i: Lib/deque.c.i
-
-.PHONY : Lib/deque.i
-
-# target to preprocess a source file
-Lib/deque.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.i
-.PHONY : Lib/deque.c.i
-
-Lib/deque.s: Lib/deque.c.s
-
-.PHONY : Lib/deque.s
-
-# target to generate assembly for a file
-Lib/deque.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.s
-.PHONY : Lib/deque.c.s
-
-Lib/oled_driver.obj: Lib/oled_driver.c.obj
-
-.PHONY : Lib/oled_driver.obj
-
-# target to build an object file
-Lib/oled_driver.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj
-.PHONY : Lib/oled_driver.c.obj
-
-Lib/oled_driver.i: Lib/oled_driver.c.i
-
-.PHONY : Lib/oled_driver.i
-
-# target to preprocess a source file
-Lib/oled_driver.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.i
-.PHONY : Lib/oled_driver.c.i
-
-Lib/oled_driver.s: Lib/oled_driver.c.s
-
-.PHONY : Lib/oled_driver.s
-
-# target to generate assembly for a file
-Lib/oled_driver.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.s
-.PHONY : Lib/oled_driver.c.s
-
-Lib/xprintf.obj: Lib/xprintf.c.obj
-
-.PHONY : Lib/xprintf.obj
-
-# target to build an object file
-Lib/xprintf.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj
-.PHONY : Lib/xprintf.c.obj
-
-Lib/xprintf.i: Lib/xprintf.c.i
-
-.PHONY : Lib/xprintf.i
-
-# target to preprocess a source file
-Lib/xprintf.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.i
-.PHONY : Lib/xprintf.c.i
-
-Lib/xprintf.s: Lib/xprintf.c.s
-
-.PHONY : Lib/xprintf.s
-
-# target to generate assembly for a file
-Lib/xprintf.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SnakeGame.elf.dir/build.make CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.s
-.PHONY : Lib/xprintf.c.s
-
 startup/startup_stm32f051x8.obj: startup/startup_stm32f051x8.s.obj
 
 .PHONY : startup/startup_stm32f051x8.obj
@@ -632,6 +605,21 @@ help:
 	@echo "... Core/Src/system_stm32f0xx.obj"
 	@echo "... Core/Src/system_stm32f0xx.i"
 	@echo "... Core/Src/system_stm32f0xx.s"
+	@echo "... Drivers/Lib/Point.obj"
+	@echo "... Drivers/Lib/Point.i"
+	@echo "... Drivers/Lib/Point.s"
+	@echo "... Drivers/Lib/Snake.obj"
+	@echo "... Drivers/Lib/Snake.i"
+	@echo "... Drivers/Lib/Snake.s"
+	@echo "... Drivers/Lib/font5x7.obj"
+	@echo "... Drivers/Lib/font5x7.i"
+	@echo "... Drivers/Lib/font5x7.s"
+	@echo "... Drivers/Lib/oled_driver.obj"
+	@echo "... Drivers/Lib/oled_driver.i"
+	@echo "... Drivers/Lib/oled_driver.s"
+	@echo "... Drivers/Lib/xprintf.obj"
+	@echo "... Drivers/Lib/xprintf.i"
+	@echo "... Drivers/Lib/xprintf.s"
 	@echo "... Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.obj"
 	@echo "... Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.i"
 	@echo "... Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.s"
@@ -653,24 +641,6 @@ help:
 	@echo "... Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.obj"
 	@echo "... Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.i"
 	@echo "... Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.s"
-	@echo "... Lib/Food.obj"
-	@echo "... Lib/Food.i"
-	@echo "... Lib/Food.s"
-	@echo "... Lib/Point.obj"
-	@echo "... Lib/Point.i"
-	@echo "... Lib/Point.s"
-	@echo "... Lib/Snake.obj"
-	@echo "... Lib/Snake.i"
-	@echo "... Lib/Snake.s"
-	@echo "... Lib/deque.obj"
-	@echo "... Lib/deque.i"
-	@echo "... Lib/deque.s"
-	@echo "... Lib/oled_driver.obj"
-	@echo "... Lib/oled_driver.i"
-	@echo "... Lib/oled_driver.s"
-	@echo "... Lib/xprintf.obj"
-	@echo "... Lib/xprintf.i"
-	@echo "... Lib/xprintf.s"
 	@echo "... startup/startup_stm32f051x8.obj"
 .PHONY : help
 

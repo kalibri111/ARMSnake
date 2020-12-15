@@ -31,13 +31,17 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "../Drivers/STM32F0xx_HAL_Driver/Inc"
   "../Drivers/CMSIS/Device/ST/STM32F0xx/Include"
   "../Drivers/CMSIS/Include"
-  "../Lib"
   )
 set(CMAKE_DEPENDS_CHECK_C
   "/home/kalibri/STM32/projects/SnakeGame/Core/Src/main.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Core/Src/main.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Core/Src/stm32f0xx_it.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Core/Src/stm32f0xx_it.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Core/Src/syscalls.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Core/Src/syscalls.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Core/Src/system_stm32f0xx.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Core/Src/system_stm32f0xx.c.obj"
+  "/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Point.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Point.c.obj"
+  "/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/Snake.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/Snake.c.obj"
+  "/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/font5x7.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/font5x7.c.obj"
+  "/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/oled_driver.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/oled_driver.c.obj"
+  "/home/kalibri/STM32/projects/SnakeGame/Drivers/Lib/xprintf.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/Lib/xprintf.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_dma.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c.obj"
@@ -45,12 +49,6 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_pwr.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c.obj"
   "/home/kalibri/STM32/projects/SnakeGame/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c.obj"
-  "/home/kalibri/STM32/projects/SnakeGame/Lib/Food.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Lib/Food.c.obj"
-  "/home/kalibri/STM32/projects/SnakeGame/Lib/Point.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Lib/Point.c.obj"
-  "/home/kalibri/STM32/projects/SnakeGame/Lib/Snake.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Lib/Snake.c.obj"
-  "/home/kalibri/STM32/projects/SnakeGame/Lib/deque.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Lib/deque.c.obj"
-  "/home/kalibri/STM32/projects/SnakeGame/Lib/oled_driver.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Lib/oled_driver.c.obj"
-  "/home/kalibri/STM32/projects/SnakeGame/Lib/xprintf.c" "/home/kalibri/STM32/projects/SnakeGame/cmake-build-debug/CMakeFiles/SnakeGame.elf.dir/Lib/xprintf.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -76,7 +74,6 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../Drivers/STM32F0xx_HAL_Driver/Inc"
   "../Drivers/CMSIS/Device/ST/STM32F0xx/Include"
   "../Drivers/CMSIS/Include"
-  "../Lib"
   )
 
 # Targets to which this target links.
