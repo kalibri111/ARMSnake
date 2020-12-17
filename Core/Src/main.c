@@ -56,21 +56,11 @@ static void MX_I2C1_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 
-__attribute__((naked)) static void delay_10ms(void)
-{
-    asm ("push {r7, lr}");
-    asm ("ldr r6, [pc, #8]");
-    asm ("sub r6, #1");
-    asm ("cmp r6, #0");
-    asm ("bne delay_10ms+0x4");
-    asm ("pop {r7, pc}");
-    asm (".word 0xea60"); //60000
-}
 
 int is_pressed(GPIO_TypeDef* GPIOx, uint32_t PinMask) {
 
     if (LL_GPIO_IsInputPinSet(GPIOx, PinMask)) {
-        delay_10ms();
+        LL_mDelay(10);
         return LL_GPIO_IsInputPinSet(GPIOx, PinMask);
     }
     return 0;
