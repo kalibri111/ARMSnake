@@ -132,9 +132,11 @@ int main(void)
 
   Snake_xt snake;
   snake.queue[0] = *newPoint(&p_pull, 64, 32);
-//  snake.queue[1] = *newPoint(&p_pull, 64, 31);
-//  snake.queue[2] = *newPoint(&p_pull, 64, 30);
-  snake.queue_size = 1;
+  snake.queue[1] = *newPoint(&p_pull, 64, 31);
+  snake.queue[2] = *newPoint(&p_pull, 64, 30);
+  snake.queue[3] = *newPoint(&p_pull, 64, 29);
+  snake.queue[4] = *newPoint(&p_pull, 64, 28);
+  snake.queue_size = 5;
 
   generate_food(&snake);
 
@@ -155,9 +157,7 @@ int main(void)
       }
       change_direction(&snake, global_dir);
 
-      for (int i = 0; i < 10; ++i) {
-          delay_10ms();
-      }
+      LL_mDelay(100);
 
       move_forward(&snake, newPoint(&p_pull, 0, 0));
       oled_update();

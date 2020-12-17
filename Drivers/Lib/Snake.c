@@ -94,7 +94,7 @@ void draw_snake(Snake_xt* snake) {
 }
 
 void push_pop(Point_xt* buffer, int buf_size, Point_xt* value) {
-    for (int i = 1; i < buf_size; ++i) {
+    for (int i = buf_size - 1; i > 0; --i) {
         buffer[i].x = buffer[i - 1].x;
         buffer[i].y = buffer[i - 1].y;
     }
